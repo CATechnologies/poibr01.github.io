@@ -42,3 +42,4 @@ body{
 /* Remove dots surrounding links in Firefox
     because of normalize.css */
 a:focus{ outline: none;}
+
